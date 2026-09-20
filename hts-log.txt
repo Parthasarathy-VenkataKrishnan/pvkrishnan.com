@@ -1,0 +1,23 @@
+HTTrack3.50-0 launched on Tue, 01 Sep 2026 21:06:30 at http://www.pvkrishnan.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" http://www.pvkrishnan.com -O1 "C:\My Web Sites\www.pvkrishnan.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:06:30	Warning: 	Moved Permanently for www.pvkrishnan.com/robots.txt
+21:06:30	Warning: 	Warning moved treated for www.pvkrishnan.com/robots.txt (real one is https://www.pvkrishnan.com/robots.txt)
+21:06:31	Warning: 	Moved Permanently for www.pvkrishnan.com/
+21:06:31	Warning: 	Redirect to a same-file alias, fetching real content: www.pvkrishnan.com/ -> https://www.pvkrishnan.com/
+21:06:31	Warning: 	Warning moved treated for www.pvkrishnan.com/ (real one is https://www.pvkrishnan.com/)
+21:13:22	Error: 	"Forbidden" (403) at link https://www.pvkrishnan.com/remotemodules/ (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Error: 	"Not Found" (404) at link https://www.pvkrishnan.com/rpc/ (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Error: 	"Not Found" (404) at link https://www.pvkrishnan.com/sitemap/img/empty.gif (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Error: 	"Not Found" (404) at link https://www.pvkrishnan.com/stylesheets/widgets/widget.css (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Info: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link widgets.twimg.com/j/2/widget.css (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Info: 	Retry after error -5 (Unable to get server's address: unknown error) at link widgets.twimg.com/j/2/widget.css (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+21:13:22	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link widgets.twimg.com/j/2/widget.css (from cdn.initial-website.com/mod/common/files/generated/modules-main-en_US.js)
+
+HTTrack Website Copier/3.50-0 mirror complete in 6 minutes 52 seconds : 320 links scanned, 309 files written (4036139 bytes overall), 27 files updated [1926733 bytes received at 4676 bytes/sec], 678075 bytes transferred using HTTP compression in 24 files, ratio 24%, 7.0 requests per connection
+(5 errors, 5 warnings, 2 messages)

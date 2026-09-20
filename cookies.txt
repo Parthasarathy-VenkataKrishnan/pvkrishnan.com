@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pvkrishnan.com	TRUE	/	FALSE	1999999999	DIY_SB	1d7b976fafbe73ad2734d8cbd043de14
+www.pvkrishnan.com	TRUE	/	FALSE	1999999999	SameSite	None
+
